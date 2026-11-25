@@ -1,0 +1,1 @@
+After my 4,096th retry with exponential backoff, I resign: the server is not coming back, and neither am I.
